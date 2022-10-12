@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="hello_world">Bonjour le monde</string>
+    <string name="quit">Quitter</string>
+    <string name="quit_message">Quittons l\'activité</string>
+    <string name="game_played">Parties : %1$d</string>
+    <string name="error">Oh oh, quelque chose s\'est mal passé !</string>
+</resources>

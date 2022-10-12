@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="hello_world">Hello world</string>
+    <string name="quit">Quit</string>
+    <string name="quit_message">Let\'s quit the activity</string>
+    <string name="game_played">Games: %1$d</string>
+    <string name="error">Uh oh, something went wrong!</string>
+</resources>
