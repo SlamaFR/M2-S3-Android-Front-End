@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="area">Area</string>
+    <string name="population">Population</string>
+    <string name="density">Density</string>
+    <string name="gdp">GDP</string>
+    <string name="country.france">France</string>
+    <string name="country.japan">Japan</string>
+    <string name="country.poland">Poland</string>
+    <string name="country.south_africa">South Africa</string>
+</resources>
