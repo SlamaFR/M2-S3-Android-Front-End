@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "FrontEnd"
 include ':TP1'
+include ':TP2'
+include ':TP3'
